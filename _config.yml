@@ -1,9 +1,9 @@
 # Site settings
-title: The Beer Campaign
+title: The Brew Campaign
 email: 
 description: "Occasional dispatches from Colorado breweries"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://beercampaign.harmsboone.org" # the base hostname & protocol for your site
+url: "https://brewcampaign.harmsboone.org" # the base hostname & protocol for your site
 
 ratingscale:
   - Disappointing
