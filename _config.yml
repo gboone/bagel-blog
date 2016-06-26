@@ -1,9 +1,9 @@
 # Site settings
-title: The Schmear Campaign
-email: letsnosh@theschmearcampaign.com
-description: "Occasional dispatches from Bageldom"
+title: The Beer Campaign
+email: 
+description: "Occasional dispatches from Colorado breweries"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.theschmearcampaign.com" # the base hostname & protocol for your site
+url: "https://beercampaign.harmsboone.org" # the base hostname & protocol for your site
 
 ratingscale:
   - Disappointing
